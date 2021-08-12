@@ -1,0 +1,13 @@
+{
+    "name": "AboutUs",
+    "alias": "aboutus",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AboutUs\\Providers\\AboutUsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

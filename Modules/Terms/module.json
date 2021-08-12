@@ -1,0 +1,13 @@
+{
+    "name": "Terms",
+    "alias": "terms",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Terms\\Providers\\TermsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

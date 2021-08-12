@@ -1,0 +1,14 @@
+{
+    "Beranda": true,
+    "Auth": true,
+    "Product": true,
+    "Profile": true,
+    "Shipping": true,
+    "Transaction": true,
+    "AboutUs": true,
+    "Help": true,
+    "Checkout": true,
+    "Terms": true,
+    "Privacy": true,
+    "Notification": true
+}

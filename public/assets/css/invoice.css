@@ -1,0 +1,121 @@
+html body, * {
+	font-family: "Muli", sans-serif !important;
+}
+
+.container{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.yukmarket-destination-address{
+    padding: 12px 0px;
+    border-bottom: 1px solid #ddd;
+}
+
+.yukmarket-logo{
+    padding-bottom:12px;
+    border-bottom:1px solid gray;
+}
+
+.yukmarket-logo img{
+    width:15rem;
+}
+
+.yukmarket-transaction-detail table thead tr th, .yukmarket-transaction-detail table tbody tr td{
+    font-weight: normal;
+}
+
+.yukmarket-transaction-detail table tbody tr th[colspan="4"]{
+    text-align:center;
+}
+.yukmarket-transaction-detail table {
+    border-bottom: 1px solid #000;
+ }
+.yukmarket-transaction-detail table > tbody > tr > td:nth-child(4), .yukmarket-transaction-detail table > tbody > tr > td:nth-child(5), td.subtotal {
+    text-align:right;
+}
+.struk-wrap {
+	width:408px;
+    margin:auto
+}
+.struk {
+    width:408px;
+    margin:20px auto 20px auto;
+    border:1px solid #ddd;
+    font-size:13px;
+    padding:15px
+}
+.yukmarket-transaction-detail table tr th, .yukmarket-transaction-detail table tr td {
+    padding: .75rem 0px .75rem 0px;
+    text-align: right;
+}
+.yukmarket-transaction-detail table tr th {
+    font-weight:bold !important
+}
+.no-padding {
+    padding:0px !important
+}
+.float-left {
+    float:left;
+}
+.margin-b5{
+    margin-bottom:5px
+}
+.clearfix {
+    clear: both;
+}
+.ico-print {
+    width: 14px;
+    height: 14px;
+    display: block;
+}
+.ico-print img {
+    width:100%;
+}
+.ic-location {
+    background: url("../img/label/ic_location.png");
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: block;
+    background-size: contain;
+}
+.ic-email {
+    background: url("../img/label/ic_email.png");
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: block;
+    background-size: contain;
+}
+.ic-phone {
+    background: url("../img/label/ic_phone.png");
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: block;
+    background-size: contain;
+}
+.thanks {
+    margin-top:10px;
+    border-top:1px solid #ddd;
+    padding:10px 0px 0px 0px
+}
+.thanks p {
+    text-align: center;
+}
+.no-border td {
+    border:none !important
+}
+.btn-print {
+    width: 408px;
+    margin: auto;
+    background-color: #00a00d;
+    color: #fff;
+}
+.btn-print:hover {
+    color: #fff;
+}
+.btn-print:active {
+    color: #fff;
+}
